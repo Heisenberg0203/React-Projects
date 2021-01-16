@@ -7,12 +7,12 @@ class App extends Component {
       <div className="App">
         <h2> Hello world,this is the first react app </h2>
         <div>
-          <Person name="Rushikesh" age="22"/>
-          <Person name="Vinayak" age="24"/>
-          <Person name="Harshal" age="28"/>
+          <Person name="Rushikesh" age="22"> Software Engineering</Person>
+          <Person name="Vinayak" age="24"> Entreprenuer</Person>
+          <Person name="Harshal" age="28"> Badmination Player </Person>
           <Person name="Akash" age="26"> IIT'ian</Person>
-          <Person name="Karmnaya" age="28"/>
-          <Person name="Nudging" age="26" />
+          <Person name="Karmnaya" age="28"> Stud </Person>
+          <Person name="Nudging" age="26" > Hike </Person>
         </div>
       </div>
       
