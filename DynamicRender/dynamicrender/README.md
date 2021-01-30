@@ -11,6 +11,6 @@ App2.js
 
 App.js : Updated Code
 
-1. Modified Data fetch  using ComponentDidMount (Useful for fetching data from servers as it runs only once)
+1. Modified Data fetch  using ComponentDidMount (Useful for fetching data from servers as it runs only once before render)
 
 2. Updated Arrow Function with Bind, bind is more effecient compared to arrow function
